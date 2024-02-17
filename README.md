@@ -11,3 +11,5 @@ cd ShodanKey
 chmod +x ShodanApi.py
 
 python ShodanApi.py
+
+IT WORKS PARTIALLY. WILL BE UPDATED IN THE FUTURE 
